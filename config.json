@@ -1,0 +1,20 @@
+{
+    "https": {
+        "options": {
+            "host": "ia801601.us.archive.org",
+            "path": "/BookReader/BookReaderImages.php?zip=/29/items/in.ernet.dli.2015.108138/2015.108138.Master-Pieces-Of-The-World-S-Best-Literature_jp2.zip&file=2015.108138.Master-Pieces-Of-The-World-S-Best-Literature_jp2/2015.108138.Master-Pieces-Of-The-World-S-Best-Literature_{fileId}.jp2&id=in.ernet.dli.2015.108138&scale=4&rotate=0",
+            "headers": {
+                "Cookie": "collections=texts%2Ccomputersandtechvideos; donation-identifier=26d94590f5fa1e979c2f3325aa190098; test-cookie=1; logged-in-sig=1634227996+1602691996+LLT%2FFxc8iPg23zOLnT%2BcSWKG8Qha%2BwjmiN0KBBDbeW99pxv9VKAcWLZORCdVjMNjcd%2FNS4%2BwGR%2BBAylWjjhi4n7MaiB3HKqB4ZYRqOzcZkjDLs3rkdYZYbK4uSi0oeNk10DuBV%2BwIub1b8RNFa9qe67QLmU0xy2nU0ZGeXHBDxg%3D; logged-in-user=rnandinishaw%40gmail.com; PHPSESSID=mj59sb3v3pqqq7t55fspa4gs03",
+                "Referer": "https://archive.org/details/in.ernet.dli.2015.108138/page/n119/mode/2up"
+            }
+        },
+        "fileIdStart": 0,
+        "fileIdEnd": 313,
+        "fileIdlength": 4,
+        "filetype": "jpeg"
+    },
+    "join": {
+        "outputQuality": 50
+    },
+    "outputFile": "Masterpieces of world literature.pdf"
+}

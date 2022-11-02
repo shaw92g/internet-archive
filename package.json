@@ -1,0 +1,23 @@
+{
+  "name": "bookdownload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "https": "node https.js",
+    "join": "node join.js",
+    "topdf": "node toPdf.js",
+    "clean": "node delete.js",
+    "start": "npm run clean && npm run https && npm run join && npm run topdf"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "combine-image": "^1.0.3",
+    "del": "^6.0.0",
+    "images-to-pdf": "^1.0.3",
+    "make-dir": "^3.1.0",
+    "url-template": "^2.0.8"
+  }
+}
